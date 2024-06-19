@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 
-export function searchBar (props) {
+export function SearchBar (props) {
 
     const [ text, setText ] = useState("");
 
